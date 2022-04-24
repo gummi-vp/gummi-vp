@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Volkan Piri, a Software Developer. 
-- 🎓 I have graduated from Computer Engineering at Cankaya University,
+- 🎓 I have graduated from Computer Engineering at Çankaya University,
 - 👨‍🎓 I did my master's degree at Hacettepe University, department of Information Systems. 
 - 👀 I’m interested in full-stack development and mobile app development.
 - 🌱 I’m currently learning Blockchain Technology, React and Flutter.
